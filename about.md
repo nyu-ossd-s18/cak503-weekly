@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About Celina:
 
-### More Information
+* I'm a senior at NYU, studying Computer Science (and Psychology, just for fun).
+* I'm half Turkish.
+* I have a cat, and no one can agree on her name.
 
-A place to include any other types of information that you'd like to include about yourself.
+~~... Alas, I'm kind of terrible at writing 'about' sections ¯\_(ツ)_/¯~~
 
