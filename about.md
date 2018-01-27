@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Hello! I'm Celina, and this is a page for a course I'm taking, called Open Source Software Development.
+
 ### About Celina:
 
 * I'm a senior at NYU, studying Computer Science (and Psychology, just for fun).
