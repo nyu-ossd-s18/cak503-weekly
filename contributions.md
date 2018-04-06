@@ -11,3 +11,4 @@
 | 4  | Commented on Course Site [Pull Request](https://github.com/joannakl/cs480_s18/pull/75) | Course Site |
 | 5  | Ozge Ozpirincci - Article [edit](https://en.wikipedia.org/wiki/Special:Contributions/Celina725) | Wikipedia |
 | 7 | Turgut Ozal - Article [Edit](https://en.wikipedia.org/wiki/Special:Contributions/Celina725) | Wikipedia |
+| 10 | Course Site [Pull Request](https://github.com/joannakl/cs480_s18/pull/109)  | Course Site |
