@@ -1,3 +1,8 @@
+---
+layout: page
+title: Contributions
+---
+
 ### Total: 11
 
 | Week # | Contribution Description | Contribution Type |
