@@ -3,7 +3,10 @@ layout: page
 title: Contributions
 ---
 
-### Total: 11
+### Total: 12
+Breakdown: 
+- Course site: **6** out of 8 max
+- Wikipedia: **4** out of 5 max
 
 | Week # | Contribution Description | Contribution Type |
 | :------------- | :------------- | :------- |
