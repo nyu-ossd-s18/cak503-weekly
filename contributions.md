@@ -18,3 +18,4 @@ title: Contributions
 | Week 7 | Turgut Ozal - Article [Edit](https://en.wikipedia.org/wiki/Special:Contributions/Celina725) | Wikipedia |
 | Week 10 | Course Site [Pull Request](https://github.com/joannakl/cs480_s18/pull/109)  | Course Site |
 | Week 10 | Created [Pull Request](https://github.com/jupyter/notebook/pull/3511) | Other (Jupyter Notebook) |
+| Week 12 | Aslihan Gurbuz - Article [edit](https://en.wikipedia.org/w/index.php?title=Asl%C4%B1han_G%C3%BCrb%C3%BCz&diff=prev&oldid=837624979) (Table formatting and grammar) | Wikipedia |
