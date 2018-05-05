@@ -3,9 +3,9 @@ layout: page
 title: Contributions
 ---
 
-### Total: 13
+### Total: 14
 Breakdown: 
-- Course site: **7** out of 8 max
+- Course site: **8** out of 8 max
 - Wikipedia: **5** out of 5 max
 - Other: **1**
 
@@ -25,3 +25,4 @@ Breakdown:
 | Week 12 | Aslihan Gurbuz - Article [edit](https://en.wikipedia.org/w/index.php?title=Asl%C4%B1han_G%C3%BCrb%C3%BCz&diff=prev&oldid=837624979) (Table formatting and grammar) | Wikipedia |
 | Week 13 | Sinem Kobal - Article [edit](https://en.wikipedia.org/w/index.php?title=Sinem_Kobal&diff=prev&oldid=837803345) (Grammar fixes) | Wikipedia |
 | Week 14 | Commented on [Issue](https://github.com/jezen/is-thirteen/issues/581#issuecomment-386770903) | Other (is-thirteen) |
+| Week 14 | Commented on [Issue](https://github.com/joannakl/cs480_s18/issues/115) | Course Site |
