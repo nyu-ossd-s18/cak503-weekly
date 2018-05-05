@@ -3,10 +3,12 @@ layout: page
 title: Contributions
 ---
 
-### Total: 12
+### Total: 13
 Breakdown: 
-- Course site: **6** out of 8 max
-- Wikipedia: **4** out of 5 max
+- Course site: **7** out of 8 max
+- Wikipedia: **5** out of 5 max
+- Other: **1**
+
 
 | Week # | Contribution Description | Contribution Type |
 | :------------- | :------------- | :------- |
@@ -20,5 +22,6 @@ Breakdown:
 | Week 5  | Ozge Ozpirincci - Article [edit](https://en.wikipedia.org/wiki/Special:Contributions/Celina725) | Wikipedia |
 | Week 7 | Turgut Ozal - Article [Edit](https://en.wikipedia.org/wiki/Special:Contributions/Celina725) | Wikipedia |
 | Week 10 | Course Site [Pull Request](https://github.com/joannakl/cs480_s18/pull/109)  | Course Site |
-| Week 10 | Created [Pull Request](https://github.com/jupyter/notebook/pull/3511) | Other (Jupyter Notebook) |
 | Week 12 | Aslihan Gurbuz - Article [edit](https://en.wikipedia.org/w/index.php?title=Asl%C4%B1han_G%C3%BCrb%C3%BCz&diff=prev&oldid=837624979) (Table formatting and grammar) | Wikipedia |
+| Week 13 | Sinem Kobal - Article [edit](https://en.wikipedia.org/w/index.php?title=Sinem_Kobal&diff=prev&oldid=837803345) (Grammar fixes) | Wikipedia |
+| Week 14 | Commented on [Issue](https://github.com/jezen/is-thirteen/issues/581#issuecomment-386770903) | Other (is-thirteen) |
