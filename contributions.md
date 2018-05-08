@@ -3,11 +3,11 @@ layout: page
 title: Contributions
 ---
 
-### Total: 14
+### Total: 17
 Breakdown: 
 - Course site: **8** out of 8 max
 - Wikipedia: **5** out of 5 max
-- Other: **1**
+- Other: **4**
 
 
 | Week # | Contribution Description | Contribution Type |
@@ -26,3 +26,7 @@ Breakdown:
 | Week 13 | Sinem Kobal - Article [edit](https://en.wikipedia.org/w/index.php?title=Sinem_Kobal&diff=prev&oldid=837803345) (Grammar fixes) | Wikipedia |
 | Week 14 | Commented on [Issue](https://github.com/jezen/is-thirteen/issues/581#issuecomment-386770903) | Other (is-thirteen) |
 | Week 14 | Commented on [Issue](https://github.com/joannakl/cs480_s18/issues/115) | Course Site |
+| Week 14 | Edited info for building (view [changeset](https://www.openstreetmap.org/changeset/58773978)) | Other - OpenStreetMap |
+| Week 14 | Created area marker (view [changeset](https://www.openstreetmap.org/changeset/58774087)) | Other - OpenStreetMap |
+| Week 14 | Updated/added details about Washington Mews (view [changeset](https://www.openstreetmap.org/changeset/58774126)) | Other - OpenStreetMap |
+| Week 14 | Added node with details about Deutsches Haus (view [changeset](https://www.openstreetmap.org/changeset/58774157)) | Other - OpenStreetMap |
