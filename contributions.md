@@ -3,11 +3,11 @@ layout: page
 title: Contributions
 ---
 
-### Total: 17
+### Total: 20
 Breakdown: 
 - Course site: **8** out of 8 max
 - Wikipedia: **5** out of 5 max
-- Other: **4**
+- Other: **7**
 
 
 | Week # | Contribution Description | Contribution Type |
@@ -30,3 +30,6 @@ Breakdown:
 | Week 14 | Created area marker (view [changeset](https://www.openstreetmap.org/changeset/58774087)) | Other - OpenStreetMap |
 | Week 14 | Updated/added details about Washington Mews (view [changeset](https://www.openstreetmap.org/changeset/58774126)) | Other - OpenStreetMap |
 | Week 14 | Added node with details about Deutsches Haus (view [changeset](https://www.openstreetmap.org/changeset/58774157)) | Other - OpenStreetMap |
+| Week 14 | Added Dormitory feature & info to Rubin Hall (view [changeset](https://www.openstreetmap.org/changeset/58798273)) | Other - OpenStreetMap | 
+| Week 14 | Fixed school misinformation & added another school's info (I know the area) (view [changeset](https://www.openstreetmap.org/changeset/58798677)) | Other - OpenStreetMap |
+| Week 14 | Added street names & cafe (I know the neighborhood) (view [changeset](https://www.openstreetmap.org/changeset/58798927#map=17/40.98679/29.13257)) | Other - OpenStreetMap |
